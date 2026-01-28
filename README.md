@@ -41,6 +41,7 @@ I fixed it by using Express’s built-in express.json() instead of body-parser, 
 
 4. Output Screenshots
 
+![Task List Screenshot](public/Screenshot 2026-01-28 124307.png)
 
 
 Screenshot showing 3 tasks added successfully on the webpage.
@@ -58,3 +59,4 @@ Improved UI/UX: Use a CSS framework like Tailwind or Bootstrap for a polished lo
 
 
 ---
+
